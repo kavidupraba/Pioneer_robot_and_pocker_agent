@@ -1,0 +1,18 @@
+***THE GRAND WINNER IS Memory_agent***, 2303 rounds wins 26 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 2111 rounds wins 28 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1889 rounds wins 23 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 2190 rounds wins 20 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1863 rounds wins 21 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1933 rounds wins 25 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1772 rounds wins 22 against: reflex_agent
+***THE GRAND WINNER IS reflex_agent***, 1687 rounds wins 29
+***THE GRAND WINNER IS Memory_agent***, 1800 rounds wins 26 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 2229 rounds wins 22 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1736 rounds wins 22 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 2100 rounds wins 24 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 2737 rounds wins 27 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1674 rounds wins 21 against: reflex_agent
+***THE GRAND WINNER IS Memory_agent***, 1756 rounds wins 22 against: reflex_agent
+***THE GRAND WINNER IS reflex_agent***, 1512 rounds wins 26
+***THE GRAND WINNER IS Memory_agent***, 2268 rounds wins 25 against: reflex_agent it's wins  21 rounds and won $1425
+***THE GRAND WINNER IS Memory_agent***, 1890 rounds wins 23 against: reflex_agent it's wins  25 rounds and won $1440

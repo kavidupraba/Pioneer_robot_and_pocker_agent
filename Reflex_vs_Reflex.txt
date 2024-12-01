@@ -1,0 +1,27 @@
+***THE GRAND WINNER IS reflex_agent***, 3761 rounds wins 31
+***THE GRAND WINNER IS reflex_agent***, 3938 rounds wins 26
+***THE GRAND WINNER IS reflex_agent***, 3611 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 3483 rounds wins 13
+***THE GRAND WINNER IS reflex_agent***, 3034 rounds wins 21
+***THE GRAND WINNER IS reflex_agent***, 3579 rounds wins 17
+***THE GRAND WINNER IS reflex_agent***, 3454 rounds wins 26
+***THE GRAND WINNER IS reflex_agent***, 3746 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 3475 rounds wins 19
+***THE GRAND WINNER IS reflex_agent***, 3274 rounds wins 20
+***THE GRAND WINNER IS reflex_agent***, 3132 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 3878 rounds wins 30
+***THE GRAND WINNER IS reflex_agent***, 3242 rounds wins 22
+***THE GRAND WINNER IS reflex_agent***, 3227 rounds wins 20
+***THE GRAND WINNER IS reflex_agent***, 3521 rounds wins 18
+***THE GRAND WINNER IS reflex_agent***, 3450 rounds wins 21
+***THE GRAND WINNER IS reflex_agent***, 3083 rounds wins 21
+***THE GRAND WINNER IS reflex_agent***, 3608 rounds wins 19
+***THE GRAND WINNER IS reflex_agent***, 3738 rounds wins 22
+***THE GRAND WINNER IS reflex_agent***, 3420 rounds wins 18
+***THE GRAND WINNER IS reflex_agent***, 3480 rounds wins 24
+***THE GRAND WINNER IS reflex_agent***, 3349 rounds wins 19
+***THE GRAND WINNER IS reflex_agent***, 3471 rounds wins 27
+***THE GRAND WINNER IS reflex_agent***, 3589 rounds wins 21
+***THE GRAND WINNER IS reflex_agent***, 3473 rounds wins 17
+***THE GRAND WINNER IS reflex_agent***, 3380 rounds wins 29 ahainst: reflex_agent it's wins 16 rounds and won $3380
+***THE GRAND WINNER IS reflex_agent2***, 2050 rounds wins 25 against: reflex_agent1 it's wins 24 rounds and won $1575

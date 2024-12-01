@@ -1,0 +1,18 @@
+***THE GRAND WINNER IS fixed_agent***, 2460 rounds wins 27
+***THE GRAND WINNER IS Memory_agent***, 2956 rounds wins 25 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2318 rounds wins 21 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2632 rounds wins 24 against: fixed
+***THE GRAND WINNER IS fixed_agent***, 2526 rounds wins 27
+***THE GRAND WINNER IS Memory_agent***, 2732 rounds wins 25 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2768 rounds wins 26 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2631 rounds wins 21 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 3130 rounds wins 26 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2640 rounds wins 22 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2600 rounds wins 23 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2456 rounds wins 23 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 3024 rounds wins 26 against: fixed
+***THE GRAND WINNER IS fixed_agent***, 2451 rounds wins 27
+***THE GRAND WINNER IS Memory_agent***, 3068 rounds wins 26 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2898 rounds wins 23 against: fixed
+***THE GRAND WINNER IS Memory_agent***, 2467 rounds wins 20 against: fixed it's wins  20 rounds and won $1886
+***THE GRAND WINNER IS Memory_agent***, 2587 rounds wins 22 against: fixed it's wins  20 rounds and won $1883

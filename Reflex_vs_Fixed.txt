@@ -1,0 +1,36 @@
+***THE GRAND WINNER IS reflex_agent***, 2946 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2477 rounds wins 22
+***THE GRAND WINNER IS reflex_agent***, 2827 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2722 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2881 rounds wins 24
+***THE GRAND WINNER IS reflex_agent***, 3266 rounds wins 27
+***THE GRAND WINNER IS reflex_agent***, 2800 rounds wins 24
+***THE GRAND WINNER IS fixed_agent***, 2494 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2632 rounds wins 22
+***THE GRAND WINNER IS fixed_agent***, 2937 rounds wins 27
+***THE GRAND WINNER IS reflex_agent***, 3094 rounds wins 27
+***THE GRAND WINNER IS reflex_agent***, 3555 rounds wins 31
+***THE GRAND WINNER IS fixed_agent***, 3162 rounds wins 30
+***THE GRAND WINNER IS fixed_agent***, 2501 rounds wins 24
+***THE GRAND WINNER IS reflex_agent***, 2629 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2758 rounds wins 22
+***THE GRAND WINNER IS reflex_agent***, 2950 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2996 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2790 rounds wins 24
+***THE GRAND WINNER IS fixed_agent***, 2675 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2872 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2620 rounds wins 23
+***THE GRAND WINNER IS fixed_agent***, 2623 rounds wins 25
+***THE GRAND WINNER IS fixed_agent***, 2656 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2698 rounds wins 23
+***THE GRAND WINNER IS fixed_agent***, 3369 rounds wins 32
+***THE GRAND WINNER IS fixed_agent***, 2967 rounds wins 28
+***THE GRAND WINNER IS fixed_agent***, 2710 rounds wins 26
+***THE GRAND WINNER IS fixed_agent***, 2635 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2901 rounds wins 24
+***THE GRAND WINNER IS reflex_agent***, 2992 rounds wins 25
+***THE GRAND WINNER IS reflex_agent***, 2733 rounds wins 23
+***THE GRAND WINNER IS reflex_agent***, 2794 rounds wins 23
+***THE GRAND WINNER IS fixed_agent***, 2816 rounds wins 26
+***THE GRAND WINNER IS fixed_agent***, 2767 rounds wins 26 ahainst: reflex_agent it's wins 21 rounds and won $2586
+***THE GRAND WINNER IS reflex_agent***, 2985 rounds wins 24 against: fixed_agent it's wins 21 rounds and won $2254
